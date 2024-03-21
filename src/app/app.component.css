@@ -12,10 +12,11 @@
 }
 .asl{
   position: relative;
-  width: 100px;
-  height: 100px;
+  width: 90px;
+  height: 90px;
   justify-content: space-between;
   border-radius: 25px;
+  font-size: 15px;
 }
 img{
   position: relative;
@@ -29,5 +30,6 @@ img{
 li {
   list-style-type: none;
   margin-bottom: 8px;
+  font-size: 15px;
  }
 
